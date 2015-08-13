@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:15.04
 MAINTAINER Anastas Dancha "anapsix@random.io"
 
 ## UTF-8
